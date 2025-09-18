@@ -19,6 +19,6 @@ Here's a table summarizing your VM system requirements:
 | **Total**                        | 28 GB   | 250 GB      | 5             |
 
 ## Project Walkthrough
-[Video](<link>)
+[Video](https://www.linkedin.com/posts/ayushpeddulwar_cybersecurity-homelab-socanalyst-activity-7374539883928858624-jBaE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD9CHAsBMS95J7Eqx2XpLa3z5RSAweTm63I)
 
-[Back to top](#)
+[Back to top](#active-directory-project)
