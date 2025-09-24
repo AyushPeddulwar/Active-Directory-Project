@@ -4,7 +4,7 @@ This repository helps set up a home lab with Active Directory, Splunk, and Kali 
 ## Flow Diagram
 For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
-<img src="https://github.com/AyushPeddulwar/Active-Directory-Project/blob/main/flow%202.png" width=800>
+<img src="https://github.com/AyushPeddulwar/Active-Directory-Project/blob/main/flow%202.png" width=700>
 <br>
 
 ## System Requirements
